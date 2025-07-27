@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workout>
+  <name>VO2 Max Intervals</name>
+  <description>VO2 max intervals for maximal oxygen uptake training</description>
+  <sportType>Bike</sportType>
+  <workout>
+    <workoutstep>
+      <Duration>600</Duration>
+      <Power>0.6</Power>
+      <message>Warm up</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>1.1</Power>
+      <message>VO2 interval 1</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.4</Power>
+      <message>Recovery</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>1.1</Power>
+      <message>VO2 interval 2</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.4</Power>
+      <message>Recovery</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>1.1</Power>
+      <message>VO2 interval 3</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.4</Power>
+      <message>Recovery</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>1.1</Power>
+      <message>VO2 interval 4</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.4</Power>
+      <message>Recovery</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>1.1</Power>
+      <message>VO2 interval 5</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>600</Duration>
+      <Power>0.4</Power>
+      <message>Cool down</message>
+    </workoutstep>
+  </workout>
+</workout> 

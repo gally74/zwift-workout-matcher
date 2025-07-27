@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workout>
+  <name>Sweet Spot Training</name>
+  <description>Sweet spot training for threshold building</description>
+  <sportType>Bike</sportType>
+  <workout>
+    <workoutstep>
+      <Duration>600</Duration>
+      <Power>0.6</Power>
+      <message>Warm up</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>1800</Duration>
+      <Power>0.88</Power>
+      <message>Sweet spot block 1</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.5</Power>
+      <message>Recovery</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>1800</Duration>
+      <Power>0.88</Power>
+      <message>Sweet spot block 2</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.5</Power>
+      <message>Recovery</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>1800</Duration>
+      <Power>0.88</Power>
+      <message>Sweet spot block 3</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>600</Duration>
+      <Power>0.4</Power>
+      <message>Cool down</message>
+    </workoutstep>
+  </workout>
+</workout> 

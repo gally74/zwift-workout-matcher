@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workout>
+  <name>Threshold Intervals</name>
+  <description>Threshold intervals for lactate threshold training</description>
+  <sportType>Bike</sportType>
+  <workout>
+    <workoutstep>
+      <Duration>600</Duration>
+      <Power>0.6</Power>
+      <message>Warm up</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>1200</Duration>
+      <Power>0.85</Power>
+      <message>Threshold interval 1</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.5</Power>
+      <message>Recovery</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>1200</Duration>
+      <Power>0.85</Power>
+      <message>Threshold interval 2</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.5</Power>
+      <message>Recovery</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>1200</Duration>
+      <Power>0.85</Power>
+      <message>Threshold interval 3</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>600</Duration>
+      <Power>0.4</Power>
+      <message>Cool down</message>
+    </workoutstep>
+  </workout>
+</workout> 

@@ -1,0 +1,51 @@
+Quick Installation Guide
+========================
+
+1. PREREQUISITES:
+   - Windows 10 or later
+   - Internet connection (for first run)
+
+2. INSTALLATION:
+   - Double-click ZwiftWorkoutMatcher.exe
+   - The app will install dependencies automatically
+   - No additional setup required
+
+3. FIRST RUN:
+   - First run may take 2-5 minutes
+   - Dependencies will be downloaded and installed
+   - Browser will open automatically when ready
+
+4. SUBSEQUENT RUNS:
+   - App starts in 10-30 seconds
+   - Browser opens automatically
+
+5. TROUBLESHOOTING:
+   - If the app doesn't start, try running as administrator
+   - If browser doesn't open, manually go to http://localhost:3000
+   - If you get port errors, close other applications using ports 3000/5000
+
+6. TESTING THE APP:
+   - Try uploading the sample ZWO files in the sample-workouts folder
+   - Test with recovery.zwo, threshold.zwo, vo2max.zwo, and sweet-spot.zwo
+   - Each should give you different route recommendations
+
+7. FEATURES TO TRY:
+   - Upload your own ZWO files from Xert
+   - Use the quick workout selection buttons
+   - Filter routes by world
+   - Review the AI analysis breakdown
+
+8. SUPPORT:
+   - If you need help, check the README.txt file
+   - Make sure Node.js is installed (https://nodejs.org/)
+   - Try running the app as administrator if you have issues
+
+9. UNINSTALLING:
+   - Simply delete the ZwiftWorkoutMatcher.exe file
+   - No system files are modified
+   - No registry entries are created
+
+10. UPDATES:
+    - Download the latest version to update
+    - No automatic updates are performed
+    - Your settings and data are not preserved between versions 

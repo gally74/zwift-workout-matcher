@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workout>
+  <name>Recovery Ride</name>
+  <description>Easy recovery ride for active recovery</description>
+  <sportType>Bike</sportType>
+  <workout>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.5</Power>
+      <message>Warm up</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>1800</Duration>
+      <Power>0.4</Power>
+      <message>Easy spinning</message>
+    </workoutstep>
+    <workoutstep>
+      <Duration>300</Duration>
+      <Power>0.3</Power>
+      <message>Cool down</message>
+    </workoutstep>
+  </workout>
+</workout> 

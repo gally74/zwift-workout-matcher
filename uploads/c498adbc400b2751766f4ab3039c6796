@@ -1,0 +1,23 @@
+﻿<workout_file>
+<author>Xert</author>
+<name>XMB Workout CL2</name>
+<description>Xert Magic Buckets Activity
+Challenge Level: 2
+XSS Targets:　 🔵 130　 🟡 0.8　 🔴 0.1</description>
+<sportType>bike</sportType>
+<ftpOverride>225</ftpOverride>
+<tags><tag name="Xert" /></tags>
+<workout>
+	<SteadyState Duration="600" Power="0.8183630"/>
+	<SteadyState Duration="100" Power="1.0989877"/>
+	<SteadyState Duration="301" Power="0.7884969"/>
+	<SteadyState Duration="100" Power="1.0989877"/>
+	<SteadyState Duration="301" Power="0.7884969"/>
+	<SteadyState Duration="180" Power="0.4091815"/>
+	<SteadyState Duration="100" Power="1.0989877"/>
+	<SteadyState Duration="281" Power="0.7731667"/>
+	<SteadyState Duration="100" Power="1.0989877"/>
+	<SteadyState Duration="281" Power="0.7731667"/>
+	<SteadyState Duration="4357" Power="0.8183630"/>
+</workout>
+</workout_file>
