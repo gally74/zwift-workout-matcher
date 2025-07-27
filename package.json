@@ -5,6 +5,7 @@
   "main": "standalone-launcher.js",
   "bin": "standalone-launcher.js",
   "scripts": {
+    "start": "node server/index.js",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "server": "nodemon server/index.js",
     "client": "cd client && npm start",
